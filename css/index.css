@@ -237,3 +237,7 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .content-pick .destination .btn {
+  color: #FFFFFF;
+  background-color: #17A2B8;
+}
