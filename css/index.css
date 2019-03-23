@@ -173,6 +173,9 @@ img {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.header-nav nav {
+  width: 50%;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
